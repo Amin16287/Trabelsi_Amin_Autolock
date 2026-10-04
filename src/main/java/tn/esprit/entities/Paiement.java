@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import tn.esprit.Enumerations.ModePaiement;
+import tn.esprit.entities.Enumerations.ModePaiement;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

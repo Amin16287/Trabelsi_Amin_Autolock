@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import tn.esprit.Enumerations.StatutReservation;
+import tn.esprit.entities.Enumerations.StatutReservation;
 
 import java.time.LocalDate;
 

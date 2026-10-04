@@ -1,4 +1,4 @@
-package tn.esprit.Enumerations;
+package tn.esprit.entities.Enumerations;
 
 public enum CategorieVehicule {
     CITADINE,
