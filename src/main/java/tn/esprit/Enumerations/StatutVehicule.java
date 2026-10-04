@@ -1,4 +1,4 @@
-package tn.esprit.entities;
+package tn.esprit.Enumerations;
 
 public enum StatutVehicule {
     DISPONIBLE,
